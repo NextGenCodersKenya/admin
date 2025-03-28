@@ -10,8 +10,6 @@ import Dashboard from './Components/Dashboard';
 import Users from './Components/Users';
 import Carousel from './Components/Carousel';
 import UnderDevelopment from './Components/UnderDevelopment';
-<<<<<<< HEAD
-=======
 import Offer from './Components/Offer';
 import AdminAuth from './Components/AdminAuth';
 import Category from './Components/Category';
