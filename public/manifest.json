@@ -1,0 +1,43 @@
+{
+  "short_name": "Admin",
+<<<<<<< HEAD
+  "name": "Create React App Sample",
+=======
+  "name": "QuickCart Admin Panel",
+>>>>>>> 6e8f7a9 (Initial commit in new location)
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+<<<<<<< HEAD
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+=======
+      "src": "/1.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/1.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+>>>>>>> 6e8f7a9 (Initial commit in new location)
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
